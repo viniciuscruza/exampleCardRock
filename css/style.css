@@ -1,0 +1,90 @@
+	.main {
+		background: linear-gradient(45deg, #fa2e83, #03194f);
+		width: 500px;
+		margin: auto;
+		height: 280px;
+		border-radius: 15px;
+		border: solid;
+		margin-top: 100px;
+	}
+
+	p {
+		margin: center;
+		text-align: center;
+		font-weight: bold;
+		font-family: 'Lato', sans-serif;
+	}
+
+	h3 {
+		padding-left: 10px;
+		padding-top: 10px;
+	}
+
+	.img_rock {
+		position: relative;
+		width: 100px;
+		height: 100px;
+		top: 25px;
+		left: 15px;
+		float: right;
+
+	}
+
+	.nome {
+		background: #0e0123; 
+		color: #e6e6e6;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		text-shadow: 2px 2px #000;
+		font-size: 18px;
+	}
+
+	.img_band {
+		width: 300px;
+		height: 140px;
+		float: left;
+		position: relative;
+		padding-left: 50px;
+		bottom: 30px;
+		opacity: 0.8;
+		z-index: 1;
+	}
+
+	.coluna {
+		float: left;
+		width: 33.33%;
+		z-index: 2;
+	}
+
+	#col1 {
+		color: white;
+		font-weight: bold;
+		font-family: 'Lato', sans-serif;
+		text-shadow: 2px 2px #01183d;
+	}
+
+	#col2 {
+		text-align: center;
+		color: white;
+		font-weight: bold;
+		font-family: 'Lato', sans-serif;
+		text-shadow: 2px 2px #01183d;
+		padding-top: 10px;
+	}
+
+	#col3 {
+		font-family: 'Varela Round', sans-serif;
+		position: relative;
+		right: 10px;
+		font-weight: bold;
+		text-align: right;
+		color: white;
+		font-size: 18px;
+		text-shadow: 2px 2px #01183d;
+		padding-top: 10px;
+	}
+
+	h1 {
+		margin: auto;
+		text-align: center;
+	}
